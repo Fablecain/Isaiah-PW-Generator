@@ -24,7 +24,7 @@ To use the page, simply search the webpage using the browser or by clicking the 
 
 ## Usage
 
-
+To use the page click the "Generate Password" button below and answer the prompts at the top of the page. Click ok for yes and cancel for no. At the end of the prompts your new password should generate based on the criteria you've chosen.
 
 ## Credits
 
@@ -40,9 +40,8 @@ Refer to the MIT license in the GitHub repository!
 
 ## Features
 
-
+If you were wanting to test the pages functionality and versatility try resizing the screen to see the difference on how the page functions based on the screen size of the user!
 
 ## Tests
 
-To test the page click the "Generate Password" button below and answer the prompts at the top of the page. Click ok for yes and cancel for no. At the end of the prompts your new password should generate based on the criteria you've chosen.
-If you were wanting to test the pages functionality and versatility try resizing the screen to see the difference on how the page functions based on the screen size of the user!
+You can also go into the console in chrome dev tools and test the page as well by looking at the code elements in real time!
