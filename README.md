@@ -42,5 +42,5 @@ Refer to the MIT license in the GitHub repository!
 
 ## Tests
 
-To test the page try typing in keywords, numbers, or even special characters and click the "Generate Password" button below!
+To test the page click the "Generate Password" button below and answer the prompts at the top of the page. Click ok for yes and cancel for no. At the end of the prompts your new password should generate based on the criteria you've chosen.
 If you were wanting to test the pages functionality and versatility try resizing the screen to see the difference on how the page functions based on the screen size of the user!
