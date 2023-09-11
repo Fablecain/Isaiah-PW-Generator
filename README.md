@@ -19,7 +19,7 @@
 ## Installation
 
 To use the page, simply search the webpage using the browser or by clicking the link from the repository! You can also use the link down below!
-
+https://fablecain.github.io/Isaiah-PW-Generator/
 ![Live URL](https://github.com/Fablecain/Isaiah-PW-Generator/assets/139589280/02a21792-9ffe-4ba3-ade3-cd0e8da725e1)
 
 ## Usage
